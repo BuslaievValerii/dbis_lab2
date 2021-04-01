@@ -1,0 +1,4 @@
+Legend for 'Results.csv':
+
+'Year' - column with the year when the participant wrote the test
+'Mark' - column with minimal mark for the test in selected region in selected year
